@@ -1,0 +1,9 @@
+.todo-input
+{
+	position: relative;
+	left:6%;
+	border: black;
+	border-width: 20px;
+	border-radius: 10px;
+}
+
